@@ -13,7 +13,7 @@ This website creates a basic plan to play against a composition using its flaws 
 
 ### Online access
 
-Just click in the website of the repository or [here](test)!
+Just click in the website of the repository or [here](https://valorant-strategy-maker.vercel.app/)!
 
 ##### or
 
